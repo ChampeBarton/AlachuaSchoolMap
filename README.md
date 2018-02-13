@@ -1,0 +1,1 @@
+This map of Alachua County schools was designed using data from the Florida Department of Education. It visualizes population and racial demographic data for every school in Alachua County in order to analyze school segregation.
